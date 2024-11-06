@@ -1,0 +1,9 @@
+Package: GCtsRNAscore
+Type: Package
+Title: Calculate Gastric Cancer tsRNA Score (GCtsRNAscore)
+Version: 1.0
+Authors@R: person("hu xin", role = c("aut", "cre"), email = "tmu2018huxin@163.com")
+Maintainer: hu xin <tmu2018huxin@163.com>
+Description: This package provides a function to calculate the Gastric Cancer Gastric Cancer tsRNA Score (GCtsRNAscore) based on gene expression data. The expression matrix should have rows as genes and columns as samples.
+License: GPL-3
+RoxygenNote: 7.3.1
